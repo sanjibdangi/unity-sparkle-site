@@ -8,6 +8,7 @@ import { PerformanceSection } from '@/components/gsrs/PerformanceSection';
 import { CorporateSection } from '@/components/gsrs/CorporateSection';
 import { ContactSection } from '@/components/gsrs/ContactSection';
 import { Footer } from '@/components/gsrs/Footer';
+import { BackToTop } from '@/components/gsrs/BackToTop';
 
 const Index = () => {
   return (
@@ -22,6 +23,7 @@ const Index = () => {
       <CorporateSection />
       <ContactSection />
       <Footer />
+      <BackToTop />
       
     </div>
   );
