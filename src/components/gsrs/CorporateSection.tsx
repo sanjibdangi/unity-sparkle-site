@@ -14,8 +14,8 @@ export const CorporateSection = () => (
           <h2 className="text-5xl md:text-6xl font-black mb-8">
             Corporate <span className="text-primary">Data</span>
           </h2>
-          <div className="relative rounded-3xl overflow-hidden border-4 border-glass-border shadow-2xl">
-            <img src="https://images.unsplash.com/photo-1553877522-43269d4ea984?w=800" alt="Security Operations" className="w-full h-80 object-cover" />
+          <div className="relative rounded-4xl overflow-hidden border-4 border-glass-border shadow-3xl">
+            <img src="/data.png" alt="Security Operations" className="w-full h-140 object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-transparent" />
           </div>
         </motion.div>
