@@ -6,7 +6,7 @@ const capabilities = [
   { icon: <Award className="w-6 h-6" />, title: 'Certified Training', desc: 'Ongoing professional development and certification' },
   { icon: <Clock className="w-6 h-6" />, title: '24/7 Availability', desc: 'Round-the-clock protection and emergency response' },
   { icon: <Eye className="w-6 h-6" />, title: 'Advanced Technology', desc: 'State-of-the-art surveillance and monitoring systems' },
-  { icon: <Users className="w-6 h-6" />, title: 'Experienced Team', desc: 'Veterans and law enforcement professionals' },
+  { icon: <Users className="w-6 h-6" />, title: 'Experienced Team', desc: 'Experienced veterans and law enforcement professionals' },
   { icon: <Lock className="w-6 h-6" />, title: 'Risk Management', desc: 'Comprehensive threat assessment and mitigation' },
 ];
 
